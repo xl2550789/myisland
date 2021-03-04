@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myisland/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/myisland/static/js/main.9b2cd177.chunk.js",
-    "main.js.map": "/myisland/static/js/main.9b2cd177.chunk.js.map",
+    "main.js": "/myisland/static/js/main.9adf0d51.chunk.js",
+    "main.js.map": "/myisland/static/js/main.9adf0d51.chunk.js.map",
     "runtime-main.js": "/myisland/static/js/runtime-main.c650df7b.js",
     "runtime-main.js.map": "/myisland/static/js/runtime-main.c650df7b.js.map",
     "static/js/2.33e0498a.chunk.js": "/myisland/static/js/2.33e0498a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c650df7b.js",
     "static/js/2.33e0498a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.9b2cd177.chunk.js"
+    "static/js/main.9adf0d51.chunk.js"
   ]
 }
