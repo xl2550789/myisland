@@ -25,14 +25,14 @@ export default function PlaceToVisit() {
         <ImageCard place={places[0]} checked={checked} />
         <ImageCard place={places[1]} checked={checked} />
       </Grid>
-      <Grid container className={classes.container}>
+      {/* <Grid container className={classes.container}>
         <ImageCard place={places[2]} checked={checked} />
         <ImageCard place={places[3]} checked={checked} />
-      </Grid>
-      <Grid container className={classes.container}>
+      </Grid> */}
+      {/* <Grid container className={classes.container}>
         <ImageCard place={places[4]} checked={checked} />
         <ImageCard place={places[5]} checked={checked} />
-      </Grid>
+      </Grid> */}
     </div>
   );
 }
