@@ -56,7 +56,7 @@ export default function Header() {
       <AppBar className={classes.appbar} elevation={0}>
         <Toolbar className={classes.appbarWrapper}>
           <h1 className={classes.appbarTitle}>
-            My<span className={classes.colorText}>Blog</span>
+            Ray<span className={classes.colorText}>PhotoBlog</span>
           </h1>
           <IconButton>
             <SortIcon className={classes.icon} />
@@ -66,7 +66,7 @@ export default function Header() {
       <Collapse in={checked} {...(checked ? { timeout: 1000 } : {})}>
         <div className={classes.container}>
           <h1 className={classes.title}>
-            Our <span className={classes.colorText}>Story</span>
+            Our <span className={classes.colorText}>Memory</span>
           </h1>
           <Scroll to="place-to-visit" smooth>
             <IconButton>

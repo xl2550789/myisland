@@ -41,9 +41,8 @@ const places = [
     time: 1500,
   },
   {
-    title: "Hogwarts Castle Light Show",
-    description:
-      "From magical spells to magical creatures, from dark villains to daring heroes, it’s all here at The Wizarding World of Harry Potter. Explore the mysteries of Hogwarts™ castle, visit the shops of Hogsmeade, and sample fare from some of the wizarding world’s best-known establishments.",
+    title: "Enjoy everyday with her",
+    description: "She taught me how to use clay mask at my very first time, which is really interesting.",
     imageUrl: process.env.PUBLIC_URL + "/assets/photo6.jpg",
     drection: "right",
     time: 1500,
