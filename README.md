@@ -1,2 +1,2 @@
 # myisland
-This is my 1st simple demo web page, which is hosted via Github pages: https://raycodelib.github.io/myisland/
+My 1st demo web page with React, Material-UI, which is hosted via Github Pages: https://raycodelib.github.io/myisland/
